@@ -1,6 +1,5 @@
 These requirements ensure all dependencies for training, data processing, and web-based inference are met.
 
-```text
 torch>=2.0.0
 torchvision>=0.15.0
 Pillow>=9.0.0
